@@ -5,6 +5,7 @@ To simulate an operational amplifier based Non inverting Amplifier and verify it
 PC with LT Spice Software
 ## Circuit Diagram:
 
+<img width="1275" height="869" alt="image" src="https://github.com/user-attachments/assets/18bbffbd-cbe1-4d8f-84a5-a05939517b14" />
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
    
@@ -39,7 +40,11 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## THEORITICAL CALCULATION:
+![fbc1dae5-ad0f-4c16-a877-6a7bc7604e1d](https://github.com/user-attachments/assets/2402e8a7-f035-4e31-833b-537b68d7f32d)
+
 
 ## OUTPUTS:
-
+<img width="1909" height="868" alt="image" src="https://github.com/user-attachments/assets/8b27dd62-ec7b-42ed-b215-74258efd6c70" />
 ## RESULT:
+![64861e59-578f-4020-ad2d-2f375725f613](https://github.com/user-attachments/assets/cb608917-1006-4f7b-a42d-bab4d05e70e7)
+
